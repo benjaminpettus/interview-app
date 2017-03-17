@@ -3,6 +3,11 @@ Interview app goal creation, from Punit's brainstorm session
 ## App that allows learners to mock interview each other
 
 ### MVP
+- [ ] Stack ?
+ - React
+ - postgres
+ - express
+ 
 - [ ] Topics & Question List (sourced from Pro Players? other resources?)
  
  - definitions

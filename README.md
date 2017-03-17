@@ -7,8 +7,8 @@ Interview app goal creation, from Punit's brainstorm session
  
    definitions
     programming vocabulary on mixed topics
-     - give them tags/categories/difficulty so they can be sorted later and show growth areas
-     - points will depend on difficulty
+     - tags/categories/difficulty so they can be sorted later and show growth areas
+     - points depend on difficulty
    
  - levels of difficulty
     correspond to levels or matrix?
@@ -20,7 +20,7 @@ Interview app goal creation, from Punit's brainstorm session
     -gives a time limit for interviewee to formulate answer
      or write out a solution on paper/whiteboard
      
- [ ] 2 person mode (interviewer & interviewee)
+- [ ] 2 person mode (interviewer & interviewee)
    notes/ leading questions and statements
  
 - [ ] UI
@@ -33,6 +33,8 @@ Interview app goal creation, from Punit's brainstorm session
  
  ### Features
   Solo Mode
+    multiple choice
+    whiteboard questions that will show answer after time is up
     
   Filter By
     topic
@@ -41,19 +43,25 @@ Interview app goal creation, from Punit's brainstorm session
   Whiteboard Questions
   
   Debugging
+   find the problem with the code
   
   Video
+   of a person asking questions
   
   Progressive Difficulty
   
   Rank
-  
+   high score for individual
+   leaderboard
+   
   Score
   
   Harder than a real interview
   
   DB persistence
-  
+   github login auth? 
+   guildwide leaderboard
+   
   Interviewer 
     has prompts to help interviewee get unstuck and reflect on choices
   

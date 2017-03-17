@@ -33,36 +33,36 @@ Interview app goal creation, from Punit's brainstorm session
  
  ### Features
  - Solo Mode
-    multiple choice
-    whiteboard questions that will show answer after time is up
+    - multiple choice
+    - whiteboard questions that will show answer after time is up
     
  - Filter By
-    topic
-    level
+    - topic
+    - level
     
  - Whiteboard Questions
   
  - Debugging
-   find the problem with the code
+   - find the problem with the code
   
  - Video
-   of a person asking questions
+   - of a person asking questions
   
  - Progressive Difficulty
   
  - Rank
-   high score for individual
-   leaderboard
+   - high score for individual
+   - leaderboard
    
  - Score
   
  - Harder than a real interview
   
  - DB persistence
-   github login auth? 
-   guildwide leaderboard
+   - github login auth? 
+   - guildwide leaderboard
    
  - Interviewer 
-    has prompts to help interviewee get unstuck and reflect on choices
+    - has prompts to help interviewee get unstuck and reflect on choices
   
  

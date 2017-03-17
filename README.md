@@ -5,26 +5,26 @@ Interview app goal creation, from Punit's brainstorm session
 ### MVP
 - [ ] Topics & Question List (sourced from Pro Players? other resources?)
  
-   definitions
-    programming vocabulary on mixed topics
+ - definitions
+   -programming vocabulary on mixed topics
      - tags/categories/difficulty so they can be sorted later and show growth areas
      - points depend on difficulty
    
  - levels of difficulty
-    correspond to levels or matrix?
+   - correspond to levels or matrix?
     
-   multiple choice
-   -show definition and possible solutions (better for solo play?) 
+ - multiple choice
+   - show definition and possible solutions (better for solo play?) 
     
  - open answer
-    -gives a time limit for interviewee to formulate answer
-     or write out a solution on paper/whiteboard
+    - gives a time limit for interviewee to formulate answer
+      or write out a solution on paper/whiteboard
      
 - [ ] 2 person mode (interviewer & interviewee)
-   notes/ leading questions and statements
+   - notes/ leading questions and statements
  
 - [ ] UI
-  card-based (question/term on front, answer on back)
+  - card-based (question/term on front, answer on back)
    - point value based on diffuculty
    - will have category and topic 
  
